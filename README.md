@@ -13,7 +13,7 @@
 
 
 
-| <a href="https://github.com/ten1fs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ten1fs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tenifs's github stats" /></a> | <a href="https://github.com/ten1fs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ten1fs&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ten1fs"><img align="center" src="https://github-readme-stats-vpvg.vercel.app/api?username=ten1fs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tenifs's github stats" /></a> | <a href="https://github.com/ten1fs"><img align="center" src="https://github-readme-stats-vpvg.vercel.app/api/top-langs/?username=ten1fs&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
