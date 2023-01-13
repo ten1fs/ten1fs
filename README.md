@@ -3,7 +3,7 @@
 ## <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="40" /> I'm Tenifs
 
 - 👨‍💻 A programming enthusiast living in China. 
-- 🌱I’m currently learning Golang.
+- 🌱I’m currently learning Golang and Distributed System.
 - 👉Here is my [Github Home Page ](https://github.com/ten1fs)
 - 📫 How to reach me: ten1fs@outlook.com
 
