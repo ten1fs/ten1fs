@@ -15,10 +15,12 @@
 ![Tenifs's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ten1fs&theme=github-compact)
 
 
-<p align="center">
-  <a href="https://github.com/ten1fs"><img align="center" src="https://github-readme-stats-vpvg.vercel.app/api?username=ten1fs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tenifs's github stats" /></a>
-  <a href="https://github.com/ten1fs"><img align="center" src="https://github-readme-stats-vpvg.vercel.app/api/top-langs/?username=ten1fs&layout=compact&theme=buefy&hide_border=true" /></a>
-</p>
+<table width="100%">
+  <tr>
+    <td><a href="https://github.com/ten1fs"><img align="center" src="https://github-readme-stats-vpvg.vercel.app/api?username=ten1fs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tenifs's github stats" /></a></td>
+    <td>  <a href="https://github.com/ten1fs"><img align="center" src="https://github-readme-stats-vpvg.vercel.app/api/top-langs/?username=ten1fs&layout=compact&theme=buefy&hide_border=true" /></a></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ten1fs" />
