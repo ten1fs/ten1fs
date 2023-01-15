@@ -1,18 +1,18 @@
-![](./assets/header.png)
+[![](./assets/header.png)](https://github.com/ten1fs)
 
-## <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="40" /> I'm Tenifs
+## <a href="https://github.com/ten1fs"><img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="40" /></a> I'm Tenifs
 
 - 👨‍💻 A programming enthusiast living in China. 
-- 🌱I’m currently learning Golang and Distributed System.
+- 🌱I’m currently learning Golang and Machine Learning.
 - 👉Here is my [Github Home Page ](https://github.com/ten1fs)
 - 📫 How to reach me: ten1fs@outlook.com
 
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-![](https://github.com/ten1fs/ten1fs/blob/output/github-contribution-grid-snake.svg)
+[![](./profile-3d-contrib/profile-green-animate.svg)](https://github.com/ten1fs)
+[![](https://github.com/ten1fs/ten1fs/blob/output/github-contribution-grid-snake.svg)](https://github.com/ten1fs)
 
-![Tenifs's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ten1fs&theme=github-compact)
+[![Tenifs's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ten1fs&theme=github-compact)](https://github.com/ten1fs)
 
 
 <table width="100%">
@@ -23,20 +23,28 @@
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ten1fs" />
+  <a href="https://github.com/ten1fs">
+    <img src="https://github-profile-trophy.vercel.app/?username=ten1fs" />
+  </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ten1fs" />
+  <a href="https://github.com/ten1fs">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ten1fs" />
+  </a>
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://profile-counter.glitch.me/ten1fs/count.svg" />
+  <a href="https://github.com/ten1fs">
+    <img align="center" src="https://profile-counter.glitch.me/ten1fs/count.svg" />
+  </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://count.getloli.com/get/@ten1fs.github.readme" />
+  <a href="https://github.com/ten1fs">
+    <img align="center" src="https://count.getloli.com/get/@ten1fs.github.readme" />
+  </a>
 </p>
 
 
-![](./assets/footer.svg)
+[![](./assets/footer.svg)](https://github.com/ten1fs)
