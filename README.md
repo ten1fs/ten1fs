@@ -24,13 +24,13 @@
 
 <p align="center">
   <a href="https://github.com/ten1fs">
-    <img src="https://github-profile-trophy.vercel.app/?username=ten1fs" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ten1fs">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ten1fs" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ten1fs&theme=onedark&hide_border=true" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/ten1fs">
-    <img align="center" src="https://count.getloli.com/get/@ten1fs.github.readme" />
+    <img align="center" src="https://count.getloli.com/get/@ten1fs.github.readme?theme=asoul" />
   </a>
 </p>
 
