@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/ten1fs">
-    <img src="https://github-profile-trophy.vercel.app/?username=ten1fs&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ten1fs&theme=onedark&title=Stars,Followers,Issues,Repositories,Commit,PullRequest" />
   </a>
 </p>
 
